@@ -131,5 +131,7 @@ dist
 
 
 # js files
-/solution.js
-/solution-queries.sql
+solution.js
+solution-queries.sql
+
+.DS_store
